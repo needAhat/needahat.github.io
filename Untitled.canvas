@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"3f8d0cb44384b84d","x":-360,"y":-300,"width":400,"height":265,"type":"file","file":"[00] Obsidian Folders/[01] Attachments/Pasted image 20231107015626.png"},
-		{"id":"cf61940d3c93be66","x":-360,"y":0,"width":400,"height":244,"type":"file","file":"[00] Obsidian Folders/[01] Attachments/Pasted image 20231107015635.png"},
-		{"id":"2dd7ef94b80d4bf1","x":80,"y":-11,"width":400,"height":267,"type":"file","file":"[00] Obsidian Folders/[01] Attachments/Pasted image 20231107015646.png"}
+		{"id":"3f8d0cb44384b84d","type":"file","file":"[00] Obsidian Folders/[01] Attachments/Pasted image 20231107015626.png","x":-360,"y":-300,"width":400,"height":265},
+		{"id":"cf61940d3c93be66","type":"file","file":"[00] Obsidian Folders/[01] Attachments/Pasted image 20231107015635.png","x":-360,"y":0,"width":399,"height":244},
+		{"id":"2dd7ef94b80d4bf1","type":"file","file":"[00] Obsidian Folders/[01] Attachments/Pasted image 20231107015646.png","x":80,"y":-11,"width":400,"height":267}
 	],
 	"edges":[]
 }
